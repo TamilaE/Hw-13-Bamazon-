@@ -34,6 +34,6 @@ VALUES ("Jumanji: Welcome To The Jungle", "Prime Video", 18.99, 8720),
 ("Makeup Organizer", "Home, Garden & Tools", 32.69, 2301),
 ("Kindle E-reader", "Kindle E-readers & Books", 79.99, 422),
 ("Cactus Earring", "Handmade", 18.00, 92),
-("The Foreigner Movie", "Movies, music & Games", 10.99, 4150),
+("The Foreigner Movie", "Movies, music & Games", 10.99, 40),
 ("Disney Princess Ariel", "Toys, Kids & Baby", 21.75, 584);
 
